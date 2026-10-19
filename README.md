@@ -13,4 +13,4 @@ Set `RETRAIN=True` to repeat a completed local training run.
 
 Submission is a PDF of the executed notebook. The assignment sheet specifies the
 filename `230322U_a02.pdf` despite being Assignment 03; an identical
-`230322U_a03.pdf` copy will also be supplied for clarity.
+`230322U_a03.pdf` copy is included for clarity.
