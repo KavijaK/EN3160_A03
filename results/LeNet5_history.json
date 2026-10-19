@@ -1,0 +1,82 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.11041407011151314,
+    "train_accuracy": 96.74,
+    "eval_loss": 0.10898336479663849,
+    "eval_accuracy": 96.63,
+    "elapsed_seconds": 16.121459250047337
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.06213098737200101,
+    "train_accuracy": 98.12833333333333,
+    "eval_loss": 0.0695153299972415,
+    "eval_accuracy": 97.77,
+    "elapsed_seconds": 31.97357708303025
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.04516529806256294,
+    "train_accuracy": 98.61,
+    "eval_loss": 0.05718555500619114,
+    "eval_accuracy": 98.23,
+    "elapsed_seconds": 48.03496987500694
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.03476025851058463,
+    "train_accuracy": 98.97166666666666,
+    "eval_loss": 0.0509159927142784,
+    "eval_accuracy": 98.28,
+    "elapsed_seconds": 63.965535833034664
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.02826621468551457,
+    "train_accuracy": 99.155,
+    "eval_loss": 0.043970129394344984,
+    "eval_accuracy": 98.56,
+    "elapsed_seconds": 80.09598858299432
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.0211826142144079,
+    "train_accuracy": 99.38,
+    "eval_loss": 0.038202823217213154,
+    "eval_accuracy": 98.82,
+    "elapsed_seconds": 95.71098412503488
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.019702093945009012,
+    "train_accuracy": 99.40166666666667,
+    "eval_loss": 0.037296853132173416,
+    "eval_accuracy": 98.79,
+    "elapsed_seconds": 110.39111587504158
+  },
+  {
+    "epoch": 8,
+    "train_loss": 0.017364745118127516,
+    "train_accuracy": 99.46,
+    "eval_loss": 0.040958692690264434,
+    "eval_accuracy": 98.71,
+    "elapsed_seconds": 125.28781566699035
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.014766250001980613,
+    "train_accuracy": 99.52833333333334,
+    "eval_loss": 0.03880948606252205,
+    "eval_accuracy": 98.72,
+    "elapsed_seconds": 140.46627745800652
+  },
+  {
+    "epoch": 10,
+    "train_loss": 0.020460566341752806,
+    "train_accuracy": 99.345,
+    "eval_loss": 0.04332846519796876,
+    "eval_accuracy": 98.6,
+    "elapsed_seconds": 157.98003741702996
+  }
+]

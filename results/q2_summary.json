@@ -1,0 +1,18 @@
+[
+  {
+    "model": "LeNet5",
+    "train_accuracy": 99.345,
+    "test_accuracy": 98.6,
+    "train_loss": 0.020460566341752806,
+    "test_loss": 0.04332846519796876,
+    "parameters": 61706
+  },
+  {
+    "model": "SmallCNN",
+    "train_accuracy": 99.77666666666667,
+    "test_accuracy": 99.33,
+    "train_loss": 0.007671567524891967,
+    "test_loss": 0.022119567208737135,
+    "parameters": 29290
+  }
+]
