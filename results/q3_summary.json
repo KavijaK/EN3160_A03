@@ -1,0 +1,18 @@
+[
+  {
+    "method": "Fine_tuning",
+    "train_accuracy": 100.0,
+    "validation_accuracy": 94.11764705882354,
+    "train_loss": 0.02559988615942783,
+    "validation_loss": 0.15678519030022464,
+    "trainable_parameters": 11177538
+  },
+  {
+    "method": "Feature_extraction",
+    "train_accuracy": 97.95081967213115,
+    "validation_accuracy": 95.42483660130719,
+    "train_loss": 0.07061962703945207,
+    "validation_loss": 0.1308396482000164,
+    "trainable_parameters": 1026
+  }
+]
