@@ -5,7 +5,7 @@
 Repository: https://github.com/KavijaK/EN3160_A03  
 Profile: https://github.com/KavijaK
 
-Run `A03.ipynb` from this directory. Install `requirements.txt`; the notebook downloads
+Run `230322U_A03.ipynb` from this directory. Install `requirements.txt`; the notebook downloads
 CIFAR-10, MNIST, hymenoptera, and the official ImageNet1K ResNet18 weights.
 `results/` contains measured histories, figures and summaries. Dataset downloads,
 local checkpoints and the Python environment are excluded from Git.

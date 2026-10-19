@@ -5,3 +5,5 @@ checkpoints/
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+
+/A03.ipynb
